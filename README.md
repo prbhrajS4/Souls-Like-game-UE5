@@ -16,8 +16,8 @@ In Development
 * Template-based systems being adapted toward a Souls-like experience
 
 ## Some photos of progress
-![gif1](gameGif2.gif)
-![gameRec](gameRec1.mp4)
+![gif2](gameGif2.gif)
+![gif1](gameGif1.gif)
 ![SS1](ss1.png)
 ![SS2](ss2.png)
 ![SS3](ss3.png)
