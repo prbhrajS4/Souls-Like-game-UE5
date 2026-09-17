@@ -14,3 +14,10 @@ In Development
 * Blueprint-based gameplay systems
 * Souls-like gameplay direction and presentation
 * Template-based systems being adapted toward a Souls-like experience
+
+## Some photos of progress
+![gif1](gameGif2.gif)
+![gameRec](gameRec1.mp4)
+![SS1](ss1.png)
+![SS2](ss2.png)
+![SS3](ss3.png)
